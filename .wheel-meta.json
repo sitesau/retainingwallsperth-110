@@ -1,0 +1,22 @@
+{
+  "wheel_id": 592,
+  "structure": "umbrella",
+  "slug": "retainingwallsperth-110",
+  "project": "retaining-walls-perth-glossary-e43abd15ed60ad8dc76065925b4277bd",
+  "parent_t1_ref": "retainingwallsperth-154",
+  "node_role": "feeder",
+  "money_target": "retainingwallsperth.au",
+  "primary_kw": "retaining walls perth glossary",
+  "intended_url": "https://sitesau.github.io/retainingwallsperth-110/",
+  "tier": "T2",
+  "writeback_nonce": "1ea9174231265a5e",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-walls-perth-budget-tips-558a940833563316f47ef22efcd28/",
+      "anchor": "this retaining walls perth budget tips guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
